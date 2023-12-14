@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\bin\Debug\net8.0\TASK10.exe
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\bin\Debug\net8.0\TASK10.deps.json
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\bin\Debug\net8.0\TASK10.runtimeconfig.json
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\bin\Debug\net8.0\TASK10.dll
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\bin\Debug\net8.0\TASK10.pdb
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\TASK10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\TASK10.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\TASK10.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\TASK10.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\TASK10.dll
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\refint\TASK10.dll
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\TASK10.pdb
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\TASK10.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#Softclub\lesson4\TASK10\obj\Debug\net8.0\ref\TASK10.dll
